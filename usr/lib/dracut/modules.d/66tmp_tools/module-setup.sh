@@ -22,5 +22,5 @@ install () {
         tpm2_unseal
 
     # Library dependencies
-    inst_libdir_file "libtss2*" 
+    inst_libdir_file "libtss2*"
 }
